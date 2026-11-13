@@ -1,0 +1,15 @@
+{
+  "registros_entrada": 67719,
+  "duplicados": 35,
+  "tipos_fecha": 30,
+  "descartados_sin_fecha_o_precio": 0,
+  "formato_producto": 40,
+  "producto_fuera_de_catalogo": 0,
+  "negativos": 25,
+  "atipicos": 16,
+  "faltantes": 60,
+  "recuperados_desde_total": 75,
+  "logicos_total": 31,
+  "registros_salida": 67684,
+  "total_corregidos": 237
+}

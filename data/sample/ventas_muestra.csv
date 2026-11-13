@@ -1,0 +1,301 @@
+ticket_id,fecha,hora,canal,producto,cantidad,precio_unitario,total
+3913,2025-03-28,9,mostrador,Cuaderno profesional,1.0,38.0,38.0
+14746,2025-11-06,11,mostrador,Cuaderno italiano,1.0,30.0,30.0
+18657,2026-01-28,14,mostrador,Cuaderno italiano,2.0,30.0,60.0
+18945,2026-02-03,17,mostrador,Pluma azul,2.0,8.0,16.0
+57,2025-01-03,8,mostrador,Hojas blancas paq 500,1.0,110.0,110.0
+2711,2025-02-26,15,mostrador,Cuaderno profesional,1.0,38.0,38.0
+18252,2026-01-21,17,mostrador,Folder manila,8.0,4.0,32.0
+8308,2025-07-04,9,mostrador,Marcatextos,2.0,14.0,28.0
+1673,2025-02-01,12,mostrador,Pegamento en barra,6.0,18.0,108.0
+5562,2025-05-03,10,mostrador,Cuaderno profesional,3.0,38.0,114.0
+3366,2025-03-15,19,mostrador,Pluma azul,2.0,8.0,16.0
+15244,2025-11-16,12,mostrador,Folder manila,8.0,4.0,32.0
+31775,2026-10-07,12,mostrador,Pluma azul,2.0,8.0,16.0
+4326,2025-04-05,12,mostrador,Cuaderno profesional,2.0,38.0,76.0
+30701,2026-09-16,15,mostrador,Cuaderno profesional,2.0,38.0,76.0
+28142,2026-08-15,18,domicilio,Folder manila,6.0,4.0,24.0
+15975,2025-12-02,18,mostrador,Cartulina,3.0,9.0,27.0
+17272,2026-01-05,17,mostrador,Pluma azul,4.0,8.0,32.0
+19883,2026-02-22,9,mostrador,Cuaderno profesional,3.0,38.0,114.0
+20007,2026-02-25,14,mostrador,Cuaderno italiano,2.0,30.0,60.0
+12010,2025-09-10,18,mostrador,Cuaderno italiano,3.0,30.0,90.0
+17375,2026-01-06,9,mostrador,Cartulina,3.0,9.0,27.0
+19788,2026-02-20,12,mostrador,Cuaderno profesional,1.0,38.0,38.0
+17868,2026-01-15,14,domicilio,Pluma azul,3.0,8.0,24.0
+8006,2025-06-27,14,mostrador,Lapiz HB,4.0,6.0,24.0
+31590,2026-10-03,12,mostrador,Folder manila,8.0,4.0,32.0
+10064,2025-08-16,15,mostrador,Hojas blancas paq 500,2.0,110.0,220.0
+25316,2026-06-13,12,mostrador,Folder manila,9.0,4.0,36.0
+14146,2025-10-24,17,mostrador,Pluma azul,3.0,8.0,24.0
+10882,2025-08-27,16,domicilio,Cuaderno profesional,2.0,38.0,76.0
+593,2025-01-13,19,mostrador,Cuaderno profesional,1.0,38.0,38.0
+16955,2025-12-26,9,mostrador,Cartulina,8.0,9.0,72.0
+11265,2025-09-01,19,mostrador,Mochila escolar,1.0,320.0,320.0
+9512,2025-08-04,13,mostrador,Pluma azul,1.0,8.0,8.0
+23404,2026-05-06,8,mostrador,Pluma azul,1.0,8.0,8.0
+32291,2026-10-16,11,mostrador,Cartulina,2.0,9.0,18.0
+5285,2025-04-27,14,mostrador,Cuaderno profesional,3.0,38.0,114.0
+9542,2025-08-05,16,mostrador,Lapiz HB,1.0,6.0,6.0
+1653,2025-02-01,18,mostrador,Cartulina,6.0,9.0,54.0
+16549,2025-12-15,18,mostrador,Marcatextos,1.0,14.0,14.0
+24833,2026-06-04,16,mostrador,Folder manila,5.0,4.0,20.0
+550,2025-01-11,14,mostrador,Lapiz HB,7.0,6.0,42.0
+27264,2026-07-29,12,mostrador,Lapiz HB,4.0,6.0,24.0
+23804,2026-05-14,8,mostrador,Colores caja 12,1.0,55.0,55.0
+5052,2025-04-22,19,domicilio,Pluma azul,7.0,8.0,56.0
+2681,2025-02-25,11,mostrador,Impresion B/N hoja,11.0,2.0,22.0
+14645,2025-11-03,17,mostrador,Hojas blancas paq 500,3.0,110.0,330.0
+1520,2025-01-30,11,domicilio,Pluma azul,3.0,8.0,24.0
+3423,2025-03-16,13,mostrador,Cuaderno italiano,1.0,30.0,30.0
+16719,2025-12-18,9,mostrador,Pegamento en barra,2.0,18.0,36.0
+22163,2026-04-10,13,mostrador,Cuaderno italiano,1.0,30.0,30.0
+15000,2025-11-12,19,domicilio,Colores caja 12,1.0,55.0,55.0
+29737,2026-09-03,13,web,Cartulina,5.0,9.0,45.0
+11738,2025-09-06,8,mostrador,Cartulina,1.0,9.0,9.0
+14319,2025-10-28,16,mostrador,Pluma azul,3.0,8.0,24.0
+20483,2026-03-06,12,mostrador,Mochila escolar,1.0,320.0,320.0
+12196,2025-09-13,16,mostrador,Lapiz HB,4.0,6.0,24.0
+9968,2025-08-14,9,mostrador,Impresion B/N hoja,8.0,2.0,16.0
+28326,2026-08-18,12,web,Colores caja 12,2.0,55.0,110.0
+9102,2025-07-26,19,mostrador,Impresion B/N hoja,15.0,2.0,30.0
+23260,2026-05-02,16,mostrador,Cuaderno profesional,1.0,38.0,38.0
+14335,2025-10-28,9,mostrador,Cuaderno profesional,1.0,38.0,38.0
+18980,2026-02-04,12,mostrador,Cuaderno profesional,1.0,38.0,38.0
+16234,2025-12-08,8,mostrador,Impresion B/N hoja,7.0,2.0,14.0
+21572,2026-03-29,9,mostrador,Lapiz HB,6.0,6.0,36.0
+16784,2025-12-19,10,mostrador,Impresion B/N hoja,18.0,2.0,36.0
+29878,2026-09-04,12,domicilio,Pluma azul,4.0,8.0,32.0
+30199,2026-09-09,17,web,Lapiz HB,2.0,6.0,12.0
+22135,2026-04-10,11,mostrador,Pluma azul,2.0,8.0,16.0
+3198,2025-03-11,12,mostrador,Lapiz HB,1.0,6.0,6.0
+31898,2026-10-09,13,mostrador,Tijeras escolares,1.0,28.0,28.0
+23905,2026-05-15,8,mostrador,Lapiz HB,1.0,6.0,6.0
+10440,2025-08-21,9,domicilio,Cuaderno italiano,1.0,30.0,30.0
+4532,2025-04-10,13,mostrador,Calculadora cientifica,1.0,220.0,220.0
+30826,2026-09-18,11,mostrador,Marcatextos,1.0,14.0,14.0
+4658,2025-04-12,18,mostrador,Folder manila,7.0,4.0,28.0
+22008,2026-04-07,10,mostrador,Colores caja 12,1.0,55.0,55.0
+28392,2026-08-19,14,mostrador,Tijeras escolares,1.0,28.0,28.0
+21792,2026-04-03,11,domicilio,Impresion B/N hoja,17.0,2.0,34.0
+11721,2025-09-06,15,mostrador,Tijeras escolares,1.0,28.0,28.0
+13966,2025-10-20,15,mostrador,Lapiz HB,2.0,6.0,12.0
+15303,2025-11-18,13,mostrador,Cuaderno italiano,2.0,30.0,60.0
+16861,2025-12-22,13,mostrador,Cuaderno profesional,4.0,38.0,152.0
+6659,2025-05-29,17,mostrador,Marcatextos,3.0,14.0,42.0
+19484,2026-02-14,16,mostrador,Impresion B/N hoja,10.0,2.0,20.0
+20140,2026-02-27,12,domicilio,Calculadora cientifica,1.0,220.0,220.0
+19439,2026-02-13,13,mostrador,Folder manila,10.0,4.0,40.0
+30227,2026-09-09,12,mostrador,Pegamento en barra,2.0,18.0,36.0
+5979,2025-05-13,11,mostrador,Cuaderno profesional,1.0,38.0,38.0
+13394,2025-10-08,12,mostrador,Folder manila,5.0,4.0,20.0
+1470,2025-01-29,17,mostrador,Folder manila,3.0,4.0,12.0
+28474,2026-08-20,10,mostrador,Cuaderno profesional,2.0,38.0,76.0
+5475,2025-05-01,12,mostrador,Impresion B/N hoja,17.0,2.0,34.0
+18094,2026-01-18,18,mostrador,Pegamento en barra,3.0,18.0,54.0
+10186,2025-08-18,12,mostrador,Cartulina,5.0,9.0,45.0
+20935,2026-03-16,14,mostrador,Lapiz HB,2.0,6.0,12.0
+28784,2026-08-23,14,mostrador,Pluma azul,2.0,8.0,16.0
+17976,2026-01-16,16,domicilio,Cartulina,5.0,9.0,45.0
+29957,2026-09-05,10,mostrador,Hojas blancas paq 500,2.0,110.0,220.0
+20546,2026-03-07,11,mostrador,Pluma azul,3.0,8.0,24.0
+22420,2026-04-16,15,mostrador,Pluma azul,4.0,8.0,32.0
+14484,2025-10-31,18,domicilio,Pegamento en barra,1.0,18.0,18.0
+20308,2026-03-03,12,mostrador,Lapiz HB,1.0,6.0,6.0
+3439,2025-03-16,12,mostrador,Folder manila,10.0,4.0,40.0
+25967,2026-06-26,16,domicilio,Pegamento en barra,1.0,18.0,18.0
+4922,2025-04-18,8,mostrador,Cuaderno italiano,2.0,30.0,60.0
+25003,2026-06-07,17,mostrador,Marcatextos,1.0,14.0,14.0
+26936,2026-07-20,16,domicilio,Folder manila,2.0,4.0,8.0
+23329,2026-05-04,15,domicilio,Cuaderno profesional,3.0,38.0,114.0
+2243,2025-02-15,13,mostrador,Impresion B/N hoja,10.0,2.0,20.0
+8489,2025-07-09,9,mostrador,Impresion B/N hoja,17.0,2.0,34.0
+9585,2025-08-06,17,domicilio,Marcatextos,1.0,14.0,14.0
+30239,2026-09-09,17,mostrador,Pegamento en barra,1.0,18.0,18.0
+23356,2026-05-05,10,mostrador,Pluma azul,2.0,8.0,16.0
+13900,2025-10-18,8,mostrador,Hojas blancas paq 500,3.0,110.0,330.0
+1907,2025-02-07,11,mostrador,Mochila escolar,1.0,320.0,320.0
+8231,2025-07-02,13,mostrador,Folder manila,6.0,4.0,24.0
+24774,2026-06-02,15,mostrador,Cartulina,3.0,9.0,27.0
+10231,2025-08-18,20,mostrador,Lapiz HB,4.0,6.0,24.0
+26274,2026-07-03,11,mostrador,Impresion B/N hoja,9.0,2.0,18.0
+27992,2026-08-12,16,mostrador,Pluma azul,1.0,8.0,8.0
+26586,2026-07-11,13,mostrador,Cuaderno italiano,3.0,30.0,90.0
+3403,2025-03-15,9,mostrador,Cartulina,8.0,9.0,72.0
+6718,2025-05-30,15,mostrador,Pluma azul,2.0,8.0,16.0
+10889,2025-08-27,10,mostrador,Cuaderno italiano,1.0,30.0,30.0
+144,2025-01-05,16,mostrador,Hojas blancas paq 500,1.0,110.0,110.0
+26057,2026-06-28,19,mostrador,Cartulina,2.0,9.0,18.0
+28610,2026-08-21,19,mostrador,Pluma azul,2.0,8.0,16.0
+2024,2025-02-10,16,mostrador,Cuaderno italiano,1.0,30.0,30.0
+29255,2026-08-29,16,mostrador,Cartulina,4.0,9.0,36.0
+12629,2025-09-22,11,mostrador,Impresion B/N hoja,14.0,2.0,28.0
+30916,2026-09-19,13,domicilio,Folder manila,4.0,4.0,16.0
+23854,2026-05-15,18,mostrador,Folder manila,5.0,4.0,20.0
+28092,2026-08-14,9,mostrador,Calculadora cientifica,1.0,220.0,220.0
+9312,2025-07-31,13,mostrador,Folder manila,5.0,4.0,20.0
+15173,2025-11-15,8,mostrador,Marcatextos,1.0,14.0,14.0
+7413,2025-06-14,13,mostrador,Impresion B/N hoja,13.0,2.0,26.0
+13428,2025-10-09,9,mostrador,Cuaderno italiano,1.0,30.0,30.0
+32286,2026-10-16,19,mostrador,Pegamento en barra,2.0,18.0,36.0
+11344,2025-09-02,16,mostrador,Lapiz HB,2.0,6.0,12.0
+26181,2026-07-01,9,mostrador,Cartulina,6.0,9.0,54.0
+19403,2026-02-12,12,mostrador,Lapiz HB,1.0,6.0,6.0
+21579,2026-03-30,18,domicilio,Pluma azul,3.0,8.0,24.0
+23702,2026-05-12,13,mostrador,Folder manila,3.0,4.0,12.0
+24279,2026-05-23,20,domicilio,Lapiz HB,8.0,6.0,48.0
+27705,2026-08-06,15,domicilio,Lapiz HB,5.0,6.0,30.0
+10373,2025-08-20,10,mostrador,Lapiz HB,1.0,6.0,6.0
+30502,2026-09-12,11,mostrador,Cartulina,5.0,9.0,45.0
+29874,2026-09-04,12,mostrador,Pluma azul,2.0,8.0,16.0
+30065,2026-09-07,16,domicilio,Pluma azul,1.0,8.0,8.0
+21878,2026-04-04,18,domicilio,Cuaderno profesional,2.0,38.0,76.0
+17658,2026-01-12,13,mostrador,Pegamento en barra,3.0,18.0,54.0
+14140,2025-10-24,12,mostrador,Colores caja 12,1.0,55.0,55.0
+2560,2025-02-22,12,mostrador,Pluma azul,2.0,8.0,16.0
+7180,2025-06-09,14,mostrador,Pluma azul,5.0,8.0,40.0
+2828,2025-03-01,13,mostrador,Cartulina,4.0,9.0,36.0
+17024,2025-12-29,20,mostrador,Cuaderno profesional,2.0,38.0,76.0
+10392,2025-08-20,20,mostrador,Pegamento en barra,1.0,18.0,18.0
+13271,2025-10-06,13,mostrador,Cartulina,1.0,9.0,9.0
+29740,2026-09-03,18,mostrador,Marcatextos,1.0,14.0,14.0
+26444,2026-07-08,13,mostrador,Pluma azul,3.0,8.0,24.0
+17444,2026-01-08,12,mostrador,Pegamento en barra,4.0,18.0,72.0
+8652,2025-07-14,12,mostrador,Colores caja 12,1.0,55.0,55.0
+30904,2026-09-19,15,mostrador,Lapiz HB,1.0,6.0,6.0
+28355,2026-08-18,17,mostrador,Pluma azul,2.0,8.0,16.0
+9438,2025-08-02,12,mostrador,Cuaderno profesional,1.0,38.0,38.0
+2089,2025-02-12,17,mostrador,Cuaderno profesional,2.0,38.0,76.0
+31663,2026-10-05,8,mostrador,Pluma azul,2.0,8.0,16.0
+17201,2026-01-04,19,domicilio,Cuaderno italiano,3.0,30.0,90.0
+27092,2026-07-24,17,web,Lapiz HB,1.0,6.0,6.0
+23267,2026-05-03,16,mostrador,Pluma azul,3.0,8.0,24.0
+3105,2025-03-08,14,domicilio,Colores caja 12,1.0,55.0,55.0
+21024,2026-03-18,17,mostrador,Impresion B/N hoja,14.0,2.0,28.0
+17081,2025-12-31,8,mostrador,Colores caja 12,2.0,55.0,110.0
+30657,2026-09-15,13,mostrador,Tijeras escolares,2.0,28.0,56.0
+27614,2026-08-04,19,mostrador,Cuaderno profesional,,38.0,38.0
+5690,2025-05-06,17,domicilio,Pluma azul,1.0,8.0,8.0
+16410,2025-12-12,13,mostrador,Cartulina,5.0,9.0,45.0
+29463,2026-08-31,17,mostrador,Calculadora cientifica,1.0,220.0,220.0
+8177,2025-07-01,19,mostrador,Mochila escolar,3.0,320.0,960.0
+18031,2026-01-17,15,domicilio,Marcatextos,1.0,14.0,14.0
+3523,2025-03-19,13,mostrador,Folder manila,7.0,4.0,28.0
+9795,2025-08-11,17,mostrador,Impresion B/N hoja,8.0,2.0,16.0
+13626,2025-10-13,16,mostrador,Cartulina,3.0,9.0,27.0
+17802,2026-01-14,18,mostrador,Pluma azul,2.0,8.0,16.0
+15337,2025-11-19,19,mostrador,Hojas blancas paq 500,1.0,110.0,110.0
+7895,2025-06-25,14,mostrador,Colores caja 12,1.0,55.0,55.0
+7539,2025-06-17,10,mostrador,Pegamento en barra,2.0,18.0,36.0
+20300,2026-03-03,19,mostrador,Impresion B/N hoja,12.0,2.0,24.0
+28810,2026-08-24,11,web,Folder manila,6.0,4.0,24.0
+9290,2025-07-31,12,mostrador,Impresion B/N hoja,15.0,2.0,30.0
+32003,2026-10-11,9,mostrador,Cartulina,5.0,9.0,45.0
+5024,2025-04-21,13,mostrador,Pluma azul,1.0,8.0,8.0
+444,2025-01-10,10,mostrador,Mochila escolar,3.0,320.0,960.0
+15745,2025-11-27,18,mostrador,Cuaderno profesional,1.0,38.0,38.0
+27965,2026-08-11,20,web,Colores caja 12,3.0,55.0,165.0
+18915,2026-02-03,13,domicilio,Lapiz HB,4.0,6.0,24.0
+13597,2025-10-13,17,mostrador,Cuaderno italiano,3.0,30.0,90.0
+11496,2025-09-04,13,mostrador,Cuaderno profesional,2.0,38.0,76.0
+6915,2025-06-03,16,mostrador,Folder manila,6.0,4.0,24.0
+24248,2026-05-22,9,mostrador,Pluma azul,2.0,8.0,16.0
+30100,2026-09-08,16,mostrador,Cartulina,2.0,9.0,18.0
+196,2025-01-06,12,mostrador,Cartulina,1.0,9.0,9.0
+8686,2025-07-14,10,mostrador,Colores caja 12,1.0,55.0,55.0
+30265,2026-09-09,16,domicilio,Marcatextos,2.0,14.0,28.0
+1941,2025-02-08,10,mostrador,Folder manila,10.0,4.0,40.0
+2003,2025-02-09,19,mostrador,Folder manila,7.0,4.0,28.0
+2666,2025-02-25,17,mostrador,Cuaderno profesional,1.0,38.0,38.0
+10125,2025-08-16,9,mostrador,Cuaderno italiano,1.0,30.0,30.0
+26668,2026-07-14,12,mostrador,Pluma azul,1.0,8.0,8.0
+25347,2026-06-14,20,domicilio,Impresion B/N hoja,12.0,2.0,24.0
+2012,2025-02-10,16,mostrador,Pegamento en barra,1.0,18.0,18.0
+3552,2025-03-19,16,mostrador,Cuaderno profesional,4.0,38.0,152.0
+14227,2025-10-25,20,mostrador,Cuaderno profesional,2.0,38.0,76.0
+9784,2025-08-10,8,mostrador,Colores caja 12,1.0,55.0,55.0
+21386,2026-03-25,20,domicilio,Cuaderno profesional,1.0,38.0,38.0
+14394,2025-10-30,10,mostrador,Folder manila,5.0,4.0,20.0
+19474,2026-02-14,11,domicilio,Tijeras escolares,1.0,28.0,28.0
+6584,2025-05-27,8,mostrador,Cuaderno italiano,2.0,30.0,60.0
+5552,2025-05-03,8,mostrador,Pluma azul,3.0,8.0,24.0
+24478,2026-05-28,14,mostrador,Tijeras escolares,1.0,28.0,28.0
+5884,2025-05-10,12,mostrador,Lapiz HB,4.0,6.0,24.0
+19261,2026-02-09,13,mostrador,Folder manila,6.0,4.0,24.0
+20439,2026-03-06,15,mostrador,Cuaderno profesional,3.0,38.0,114.0
+11552,2025-09-04,11,mostrador,Pluma azul,1.0,8.0,8.0
+23159,2026-05-01,17,mostrador,Folder manila,2.0,4.0,8.0
+3084,2025-03-08,11,domicilio,Cuaderno italiano,3.0,30.0,90.0
+29026,2026-08-26,18,mostrador,Lapiz HB,4.0,6.0,24.0
+29965,2026-09-05,14,web,Colores caja 12,2.0,55.0,110.0
+10859,2025-08-27,18,mostrador,Pegamento en barra,1.0,18.0,18.0
+23859,2026-05-15,19,domicilio,Cuaderno profesional,1.0,38.0,38.0
+21079,2026-03-19,13,mostrador,Cuaderno profesional,3.0,38.0,114.0
+24927,2026-06-06,14,mostrador,Marcatextos,2.0,14.0,28.0
+12427,2025-09-17,16,mostrador,Pegamento en barra,1.0,18.0,18.0
+11903,2025-09-09,10,mostrador,Cuaderno italiano,1.0,30.0,30.0
+13319,2025-10-07,13,mostrador,Impresion B/N hoja,10.0,2.0,20.0
+9862,2025-08-12,16,mostrador,Lapiz HB,2.0,6.0,12.0
+17602,2026-01-10,10,mostrador,Cuaderno italiano,1.0,30.0,30.0
+18645,2026-01-28,11,mostrador,Cuaderno profesional,2.0,38.0,76.0
+6581,2025-05-27,17,mostrador,Folder manila,2.0,4.0,8.0
+6759,2025-05-31,19,mostrador,Folder manila,5.0,4.0,20.0
+6301,2025-05-20,11,mostrador,Pluma azul,2.0,8.0,16.0
+10171,2025-08-17,8,domicilio,Cartulina,1.0,9.0,9.0
+1436,2025-01-28,8,mostrador,Cuaderno italiano,5.0,30.0,150.0
+21946,2026-04-06,17,domicilio,Lapiz HB,3.0,6.0,18.0
+6864,2025-06-02,17,mostrador,Cuaderno italiano,1.0,30.0,30.0
+15639,2025-11-25,18,mostrador,Pluma azul,1.0,8.0,8.0
+16207,2025-12-07,16,mostrador,Lapiz HB,6.0,6.0,36.0
+27526,2026-08-03,13,mostrador,Pluma azul,3.0,8.0,24.0
+6193,2025-05-17,14,mostrador,Pluma azul,2.0,8.0,16.0
+22105,2026-04-09,9,mostrador,Folder manila,3.0,4.0,12.0
+16040,2025-12-04,14,mostrador,Pluma azul,3.0,8.0,24.0
+23827,2026-05-14,13,mostrador,Lapiz HB,2.0,6.0,12.0
+1108,2025-01-22,16,domicilio,Lapiz HB,2.0,6.0,12.0
+20215,2026-02-28,17,mostrador,Pluma azul,1.0,8.0,8.0
+21299,2026-03-23,17,mostrador,Cartulina,4.0,9.0,36.0
+13022,2025-09-30,10,mostrador,Cuaderno italiano,2.0,30.0,60.0
+31853,2026-10-08,17,domicilio,Hojas blancas paq 500,1.0,110.0,110.0
+30089,2026-09-07,13,mostrador,Impresion B/N hoja,13.0,2.0,26.0
+2323,2025-02-17,13,mostrador,Impresion B/N hoja,19.0,2.0,38.0
+16870,2025-12-22,19,mostrador,Cuaderno italiano,3.0,30.0,90.0
+249,2025-01-07,14,mostrador,Mochila escolar,1.0,320.0,320.0
+19167,2026-02-07,17,mostrador,Folder manila,4.0,4.0,16.0
+2654,2025-02-25,16,mostrador,Cuaderno profesional,1.0,38.0,38.0
+10703,2025-08-25,13,mostrador,Cartulina,2.0,9.0,18.0
+27664,2026-08-06,13,mostrador,Cartulina,3.0,9.0,27.0
+23822,2026-05-14,14,mostrador,Pegamento en barra,1.0,18.0,18.0
+31361,2026-09-29,19,mostrador,Lapiz HB,1.0,6.0,6.0
+17213,2026-01-04,9,mostrador,Marcatextos,5.0,14.0,70.0
+5002,2025-04-20,17,mostrador,Cuaderno profesional,1.0,38.0,38.0
+5811,2025-05-09,11,mostrador,Folder manila,2.0,4.0,8.0
+11219,2025-08-31,10,mostrador,Cuaderno italiano,1.0,30.0,30.0
+27606,2026-08-04,13,mostrador,Pegamento en barra,3.0,18.0,54.0
+1023,2025-01-20,13,mostrador,Folder manila,5.0,4.0,20.0
+3729,2025-03-22,17,mostrador,Marcatextos,1.0,14.0,14.0
+554,2025-01-11,16,mostrador,Lapiz HB,3.0,6.0,18.0
+10285,2025-08-19,17,mostrador,Lapiz HB,1.0,6.0,6.0
+30887,2026-09-19,11,mostrador,Folder manila,7.0,4.0,28.0
+10728,2025-08-25,8,mostrador,Pluma azul,4.0,8.0,32.0
+21055,2026-03-18,11,mostrador,Lapiz HB,2.0,6.0,12.0
+13226,2025-10-04,12,mostrador,Pluma azul,2.0,8.0,16.0
+15638,2025-11-25,10,mostrador,Impresion B/N hoja,18.0,2.0,36.0
+19948,2026-02-23,16,mostrador,Marcatextos,3.0,14.0,42.0
+15688,2025-11-26,16,mostrador,Cuaderno profesional,1.0,38.0,38.0
+9129,2025-07-26,18,mostrador,Colores caja 12,1.0,55.0,55.0
+19478,2026-02-14,9,mostrador,Pegamento en barra,1.0,18.0,18.0
+16499,2025-12-13,14,mostrador,Cartulina,4.0,9.0,36.0
+32056,2026-10-12,18,domicilio,Cartulina,4.0,9.0,36.0
+27846,2026-08-09,19,web,Pluma azul,1.0,8.0,8.0
+15322,2025-11-18,9,mostrador,Pluma azul,4.0,8.0,32.0
+28168,2026-08-15,18,mostrador,Cuaderno italiano,2.0,30.0,60.0
+31045,2026-09-23,8,domicilio,Cartulina,4.0,9.0,36.0
+1545,2025-01-30,13,mostrador,Cartulina,1.0,9.0,9.0
+10905,2025-08-27,10,mostrador,Mochila escolar,1.0,320.0,320.0
+29944,2026-09-05,12,mostrador,Lapiz HB,1.0,6.0,6.0
+12408,2025-09-17,17,mostrador,Pluma azul,2.0,8.0,16.0
+17670,2026-01-12,13,domicilio,Cartulina,2.0,9.0,18.0
+4368,2025-04-06,9,mostrador,Lapiz HB,7.0,6.0,42.0
+6659,2025-05-29,17,mostrador,Hojas blancas paq 500,1.0,110.0,110.0
+293,2025-01-08,9,mostrador,Cartulina,4.0,9.0,36.0
