@@ -1,0 +1,12 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {"Sid": "LeeSoloRaw", "Effect": "Allow", "Action": "s3:GetObject",
+     "Resource": "arn:aws:s3:::__BUCKET__/raw/*"},
+    {"Sid": "EscribeSoloClean", "Effect": "Allow", "Action": "s3:PutObject",
+     "Resource": "arn:aws:s3:::__BUCKET__/clean/*"},
+    {"Sid": "ConsumeLaCola", "Effect": "Allow",
+     "Action": ["sqs:ReceiveMessage", "sqs:DeleteMessage", "sqs:GetQueueAttributes"],
+     "Resource": "__QUEUE_ARN__"}
+  ]
+}

@@ -1,0 +1,15 @@
+[Unit]
+Description=Worker de limpieza (Data Startup Papeleria)
+After=network.target
+
+[Service]
+User=ec2-user
+WorkingDirectory=/home/ec2-user/data-startup-papeleria
+EnvironmentFile=/etc/papeleria.env
+# el worker usa el rol papeleria-worker (ver ~/.aws/config), no el rol de la VM
+Environment=AWS_PROFILE=worker
+ExecStart=/home/ec2-user/venv/bin/python services/worker/worker.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

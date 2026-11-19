@@ -1,0 +1,5 @@
+# ~/.aws/config en la VM: el worker asume el rol de minimo privilegio usando las credenciales de la VM
+[profile worker]
+role_arn = arn:aws:iam::123456789012:role/papeleria-worker
+credential_source = Ec2InstanceMetadata
+region = us-east-1

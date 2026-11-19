@@ -1,0 +1,8 @@
+# Lo minimo para correr ingesta y worker en la maquina virtual (sin tablero ni graficas)
+pandas>=2.2
+numpy>=1.26
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+boto3>=1.34
+psycopg2-binary>=2.9

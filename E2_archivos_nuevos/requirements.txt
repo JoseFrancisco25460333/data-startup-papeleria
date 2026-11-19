@@ -1,0 +1,16 @@
+# --- E1: analitica y tablero
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+streamlit>=1.38
+# --- E2: modelos, pruebas, ingesta, worker y nube
+scikit-learn>=1.4
+statsmodels>=0.14
+pytest>=8.0
+httpx>=0.27
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+boto3>=1.34
+psycopg2-binary>=2.9

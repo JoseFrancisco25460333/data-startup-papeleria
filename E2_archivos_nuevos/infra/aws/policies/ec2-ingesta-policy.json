@@ -1,0 +1,11 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {"Sid": "IngestaEscribeSoloRaw", "Effect": "Allow", "Action": "s3:PutObject",
+     "Resource": "arn:aws:s3:::__BUCKET__/raw/*"},
+    {"Sid": "IngestaPublicaEnLaCola", "Effect": "Allow", "Action": "sqs:SendMessage",
+     "Resource": "__QUEUE_ARN__"},
+    {"Sid": "PuedeUsarElRolDelWorker", "Effect": "Allow", "Action": "sts:AssumeRole",
+     "Resource": "arn:aws:iam::__ACCOUNT_ID__:role/__ROLE_WORKER__"}
+  ]
+}
